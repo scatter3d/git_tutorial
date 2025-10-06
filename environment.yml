@@ -8,7 +8,7 @@ dependencies:
   - snakemake>=8
   - multiqc
   - jupyter
-  - bowtie2
+  - bowtie2=2.2.4
   - tbb
   - samtools
   - subread>=2
