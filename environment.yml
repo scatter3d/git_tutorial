@@ -6,7 +6,7 @@ dependencies:
   - fastqc
   - seqtk
   - snakemake>=8
-  - multiqc=1.7
+  - multiqc=1.8
   - jupyter
   - bowtie2=2.2.4
   - tbb
